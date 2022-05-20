@@ -90,7 +90,7 @@
             this.treeView1.BackColor = System.Drawing.Color.Peru;
             this.treeView1.Location = new System.Drawing.Point(32, 126);
             this.treeView1.Name = "treeView1";
-            this.treeView1.Size = new System.Drawing.Size(171, 303);
+            this.treeView1.Size = new System.Drawing.Size(204, 303);
             this.treeView1.TabIndex = 3;
             // 
             // btn_limpiar
@@ -106,16 +106,16 @@
             // CboPuertos
             // 
             this.CboPuertos.FormattingEnabled = true;
-            this.CboPuertos.Location = new System.Drawing.Point(277, 268);
+            this.CboPuertos.Location = new System.Drawing.Point(295, 240);
             this.CboPuertos.Name = "CboPuertos";
-            this.CboPuertos.Size = new System.Drawing.Size(121, 21);
+            this.CboPuertos.Size = new System.Drawing.Size(73, 21);
             this.CboPuertos.TabIndex = 6;
             // 
             // btn_conectar
             // 
-            this.btn_conectar.Location = new System.Drawing.Point(277, 313);
+            this.btn_conectar.Location = new System.Drawing.Point(293, 276);
             this.btn_conectar.Name = "btn_conectar";
-            this.btn_conectar.Size = new System.Drawing.Size(121, 23);
+            this.btn_conectar.Size = new System.Drawing.Size(75, 57);
             this.btn_conectar.TabIndex = 7;
             this.btn_conectar.Text = "Conectar Puerto";
             this.btn_conectar.UseVisualStyleBackColor = true;
@@ -123,10 +123,13 @@
             // 
             // txt_EscucharSerial
             // 
-            this.txt_EscucharSerial.Location = new System.Drawing.Point(277, 363);
+            this.txt_EscucharSerial.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txt_EscucharSerial.ForeColor = System.Drawing.Color.Red;
+            this.txt_EscucharSerial.Location = new System.Drawing.Point(256, 363);
             this.txt_EscucharSerial.Name = "txt_EscucharSerial";
-            this.txt_EscucharSerial.Size = new System.Drawing.Size(121, 20);
+            this.txt_EscucharSerial.Size = new System.Drawing.Size(162, 26);
             this.txt_EscucharSerial.TabIndex = 8;
+            this.txt_EscucharSerial.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // Form1
             // 
