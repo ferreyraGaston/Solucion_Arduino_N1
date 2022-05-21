@@ -117,11 +117,9 @@ namespace Arduino_N1
                     String cadena = SerPort.ReadLine();
                     txt_EscucharSerial.Invoke(new MethodInvoker(
                         delegate
-                        {
-                            //     txt_EscucharSerial.Text = cadena;
+                        {                            
                             if (cadena == "0")
-                            {
-                                //txt_EscucharSerial.Text = "Arduino Conectado";
+                            {                                
                                 ban3 = 1; //el arduino esta conectado
                             }
                             
@@ -189,8 +187,6 @@ namespace Arduino_N1
                     btn_limpiar.Enabled = false;
                     CboPuertos.Enabled = true;
                 }
-
-
             }
             catch (Exception exc)
             {
