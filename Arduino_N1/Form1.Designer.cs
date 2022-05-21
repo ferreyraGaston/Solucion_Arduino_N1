@@ -95,9 +95,9 @@
             // 
             // btn_limpiar
             // 
-            this.btn_limpiar.Location = new System.Drawing.Point(293, 196);
+            this.btn_limpiar.Location = new System.Drawing.Point(293, 177);
             this.btn_limpiar.Name = "btn_limpiar";
-            this.btn_limpiar.Size = new System.Drawing.Size(75, 23);
+            this.btn_limpiar.Size = new System.Drawing.Size(93, 42);
             this.btn_limpiar.TabIndex = 4;
             this.btn_limpiar.Text = "Limpiar";
             this.btn_limpiar.UseVisualStyleBackColor = true;
@@ -108,14 +108,14 @@
             this.CboPuertos.FormattingEnabled = true;
             this.CboPuertos.Location = new System.Drawing.Point(295, 240);
             this.CboPuertos.Name = "CboPuertos";
-            this.CboPuertos.Size = new System.Drawing.Size(73, 21);
+            this.CboPuertos.Size = new System.Drawing.Size(91, 21);
             this.CboPuertos.TabIndex = 6;
             // 
             // btn_conectar
             // 
             this.btn_conectar.Location = new System.Drawing.Point(293, 276);
             this.btn_conectar.Name = "btn_conectar";
-            this.btn_conectar.Size = new System.Drawing.Size(75, 57);
+            this.btn_conectar.Size = new System.Drawing.Size(93, 57);
             this.btn_conectar.TabIndex = 7;
             this.btn_conectar.Text = "Conectar Puerto";
             this.btn_conectar.UseVisualStyleBackColor = true;
