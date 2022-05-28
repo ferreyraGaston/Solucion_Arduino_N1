@@ -1,0 +1,10 @@
+G:\programacion\Repositorio Github\Arduino_N1\bin\Debug\Arduino_N1.exe.config
+G:\programacion\Repositorio Github\Arduino_N1\bin\Debug\Arduino_N1.exe
+G:\programacion\Repositorio Github\Arduino_N1\bin\Debug\Arduino_N1.pdb
+G:\programacion\Repositorio Github\Arduino_N1\obj\Debug\Arduino_N1.csproj.AssemblyReference.cache
+G:\programacion\Repositorio Github\Arduino_N1\obj\Debug\Arduino_N1.Form1.resources
+G:\programacion\Repositorio Github\Arduino_N1\obj\Debug\Arduino_N1.Properties.Resources.resources
+G:\programacion\Repositorio Github\Arduino_N1\obj\Debug\Arduino_N1.csproj.GenerateResource.cache
+G:\programacion\Repositorio Github\Arduino_N1\obj\Debug\Arduino_N1.csproj.CoreCompileInputs.cache
+G:\programacion\Repositorio Github\Arduino_N1\obj\Debug\Arduino_N1.exe
+G:\programacion\Repositorio Github\Arduino_N1\obj\Debug\Arduino_N1.pdb
